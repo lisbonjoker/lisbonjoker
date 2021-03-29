@@ -16,4 +16,4 @@
 </a>
 
 <h3>Contact me:</h3>
-<a href="mailto:joker@nadaradical.com"> <img alt="Mail" src="https://img.shields.io/badge/joker@nadaradical.com-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" /> </a> <a href="xmpp:joker@nadaradical.com"> <img alt="XMPP" src="https://img.shields.io/badge/lisbonjoker@pleroma.pt-002B5C?style=for-the-badge&logo=xmpp&logoColor=white" /> </a>
+<a href="mailto:joker@nadaradical.com"> <img alt="Mail" src="https://img.shields.io/badge/joker@nadaradical.com-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" /> </a> <a href="xmpp:lisbonjoker@pleroma.pt"> <img alt="XMPP" src="https://img.shields.io/badge/lisbonjoker@pleroma.pt-002B5C?style=for-the-badge&logo=xmpp&logoColor=white" /> </a>
